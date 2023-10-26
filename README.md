@@ -1,4 +1,4 @@
-# python_Bhaskara_calculator
+# Bhaskara Calculator in Python
 The Bhaskara Calculator is a tool that allows users to solve quadratic equations. Quadratic equations are equations of the form ax² + bx + c = 0, where a, b, and c are real numbers.
 
 The Bhaskara Calculator uses the Bhaskara formula to solve quadratic equations. The Bhaskara formula is:
